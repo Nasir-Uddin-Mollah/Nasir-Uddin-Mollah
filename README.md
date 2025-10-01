@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nasir Uddin</h1>
+<h1 align="center">Hi 👋, I'm Nasir</h1>
 <h3 align="center">Python & Django Developer | Backend Developer | Full-Stack Enthusiast | Software Engineer | Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nasir-uddin-mollah&label=Profile%20views&color=brightgreen&style=flat" alt="nasir-uddin-mollah" /> </p>
@@ -25,13 +25,25 @@
 </p>
 
 ## 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nasir-Uddin-Mollah&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" height="180em" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Nasir-Uddin-Mollah&theme=blue-green&hide_border=false" height="180em" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasir-Uddin-Mollah&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150em" />
-</p>
+<div align="center">
+    <table>
+      <tr>
+        <td align="center">
+              <img src="https://github-readme-stats.vercel.app/api?username=Nasir-Uddin-Mollah&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" />
+        </td>
+        <td align="center">
+            <img src="https://nirzak-streak-stats.vercel.app/?user=Nasir-Uddin-Mollah&theme=blue-green&hide_border=false" />
+        </td>
+      </tr>
+      <tr>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasir-Uddin-Mollah&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="100%" />
+        </td>
+        <!-- <td align="center">
+        </td> -->
+      </tr>
+    </table>
+</div> 
 
 <!-- Snake Game Repo View -->
 <div align="center">
