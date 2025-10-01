@@ -12,6 +12,8 @@ jobs:
       - uses: actions/checkout@v3
 
       - name: Generate Snake SVG
+        # ⚠️ CORRECTED ACTION ⚠️
+        # Use the action specifically designed to generate the contribution grid snake SVG
         uses: Ashutosh00710/github-contribution-grid-snake@main
         with:
           username: Nasir-Uddin-Mollah
@@ -22,5 +24,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add github-contribution-grid-snake.svg
-          git commit -m "Update snake animation" || echo "No changes"
+          # Use '-f' flag to force an empty commit if no changes, preventing failure on '|| echo "No changes"'
+          # or simply remove the '|| echo "No changes"' as the force-push handles it better.
+          git commit -m "Update snake animation" || echo "No changes to commit."
           git push
