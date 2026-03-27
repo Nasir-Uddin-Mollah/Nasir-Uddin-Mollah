@@ -25,26 +25,14 @@
 </p>
 
 ## 📊 GitHub Stats:
-<div align="center">
-    <table>
-      <tr>
-        <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api?username=Nasir-Uddin-Mollah&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" />
-        </td>
-        <td align="center">
-            <img src="https://nirzak-streak-stats.vercel.app/?user=Nasir-Uddin-Mollah&theme=blue-green&hide_border=false" />
-        </td>
-      </tr>
-      <tr>
-        <td align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasir-Uddin-Mollah&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false&layout=compact" width="100%" />
-        </td>
-        <!-- <td align="center">
-        </td> -->
-      </tr>
-    </table>
-</div> 
 
+| Stats | Streak |
+|------|------|
+| <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nasir-Uddin-Mollah&show_icons=true&theme=blue-green&hide_border=true"/> | <img src="https://streak-stats.demolab.com/?user=Nasir-Uddin-Mollah&theme=blue-green&hide_border=true"/> |
+
+| Top Languages |
+|--------------|
+| <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nasir-Uddin-Mollah&layout=compact&theme=blue-green&hide_border=true"/> |
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
