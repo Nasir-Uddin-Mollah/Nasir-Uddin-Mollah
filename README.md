@@ -29,7 +29,7 @@
     <table>
       <tr>
         <td align="center">
-              <img src="https://github-readme-stats.vercel.app/api?username=Nasir-Uddin-Mollah&theme=blue-green&hide_border=false&include_all_commits=true&count_private=false" />
+            <img src="https://github-readme-stats.vercel.app/api?username=Nasir-Uddin-Mollah&show_icons=true&theme=blue-green" />
         </td>
         <td align="center">
             <img src="https://nirzak-streak-stats.vercel.app/?user=Nasir-Uddin-Mollah&theme=blue-green&hide_border=false" />
