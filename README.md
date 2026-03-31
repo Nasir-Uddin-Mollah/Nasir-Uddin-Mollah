@@ -1,18 +1,24 @@
 <h1 align="center">Hi 👋, I'm Nasir</h1>
 
 <div align="center">
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=🐍+Python+%26+Django+Developer;⚙️+Backend+Developer;🌐+Full-Stack+Enthusiast;🚀+Software+Engineer;🏆+Competitive+Programmer;📚+Lifelong+Learner" />
-
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nasir-uddin-mollah&label=Profile%20views&color=brightgreen&style=flat" alt="nasir-uddin-mollah" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nasir-uddin-mollah&label=Profile%20views&color=brightgreen&style=flat" alt="nasir-uddin-mollah" /> </p>
+
+## 👨‍💻 About Me
+- 🔭 Currently building **Django & React projects**
+- 🌱 Learning **Advanced Backend Development**
+- 💡 Interested in **System Design & Scalable Web Apps**
+- ⚡ Love **Competitive Programming & Problem Solving**
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Nasir-Uddin-Mollah&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+<img src="https://github-profile-trophy-gamma.vercel.app/?username=Nasir-Uddin-Mollah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
-## 💻 Tech Stack:
-<p align="left">
+## 💻 Tech Stack
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,c,cpp,python,js,django,react,sqlite,mysql,postgres,git" />
+
+<!-- <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" title="HTML"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" title="CSS3"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" title="Bootstrap"/> 
@@ -27,10 +33,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" title="MYSQL"/> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" title="PostgreSQL"/>
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" title="git"/> 
-</p>
+</p> -->
 
-## 📊 GitHub Stats:
-
+## 📊 GitHub Stats
 | Stats | Streak |
 |------|------|
 | <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nasir-Uddin-Mollah&show_icons=true&theme=blue-green&hide_border=true"/> | <img src="https://streak-stats.demolab.com/?user=Nasir-Uddin-Mollah&theme=blue-green&hide_border=true"/> |
@@ -38,6 +43,12 @@
 | Top Languages |
 |--------------|
 | <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nasir-Uddin-Mollah&layout=compact&theme=blue-green&hide_border=true"/> |
+
+<!-- Contribution Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasir-Uddin-Mollah&theme=chartreuse-dark&hide_border=true" width="100%"/>
+</div>
+
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
