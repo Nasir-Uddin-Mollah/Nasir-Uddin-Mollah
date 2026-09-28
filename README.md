@@ -32,7 +32,7 @@
 
 <!-- Contribution Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nasir-Uddin-Mollah&theme=chartreuse-dark&hide_border=true" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Nasir-Uddin-Mollah/Nasir-Uddin-Mollah/output/activity-graph.svg" width="100%"/>
 </div>
 
 <!-- Snake Game Repo View -->
