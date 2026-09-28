@@ -1,22 +1,38 @@
 <h1 align="center">Hi 👋, I'm Nasir</h1>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=🐍+Python+%26+Django+Developer;⚙️+Backend+Developer;🌐+Full-Stack+Enthusiast;🚀+Software+Engineer;🏆+Competitive+Programmer;📚+Lifelong+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=39D353&center=true&vCenter=true&width=900&lines=🌐+Full-Stack+Developer;⚛️+React+%26+Next.js+Developer;🐍+Python+%26+Django+Developer;⚙️+Backend+Developer;🏆+Competitive+Programmer;📚+Lifelong+Learner" />
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nasir-uddin-mollah&label=Profile%20views&color=brightgreen&style=flat" alt="nasir-uddin-mollah" /> </p>
 
 ## 👨‍💻 About Me
-- 🔭 Currently building **Django & React projects**
-- 🌱 Learning **Advanced Backend Development**
-- 💡 Interested in **System Design & Scalable Web Apps**
+- 🔭 Building **full-stack web applications**
+- 🌱 Currently learning **Full-Stack Development**
+- 💻 Experienced with **Python, Django, React & Next.js**
+- 🧠 Interested in **Backend Development, System Design & Scalable Web Apps**
+- 🤖 Exploring **AI-Assisted Development & AI Engineering**
 - ⚡ Love **Competitive Programming & Problem Solving**
 
 ## 🏆 GitHub Trophies
 <img src="https://github-profile-trophy-gamma.vercel.app/?username=Nasir-Uddin-Mollah&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 
 ## 💻 Tech Stack
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,c,cpp,python,js,django,react,sqlite,mysql,postgres,git" />
+
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,tailwind,nextjs" />
+
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=python,django,nodejs" />
+
+### 🗄️ Database
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postgres,mongodb" />
+
+### 💻 Programming
+<img src="https://skillicons.dev/icons?i=c,cpp,python" />
+
+### 🛠️ Tools & Version Control
+<img src="https://skillicons.dev/icons?i=git,github" />
 
 ## 📊 GitHub Stats
 
