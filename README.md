@@ -22,11 +22,13 @@
 
 | Stats | Streak |
 |------|------|
-| <img src="https://github-readme-stats.vercel.app/api?username=Nasir-Uddin-Mollah&show_icons=true&theme=blue-green&hide_border=true"/> | <img src="https://streak-stats.demolab.com/?user=Nasir-Uddin-Mollah&theme=blue-green&hide_border=true"/> |
+| <img src="./profile/stats.svg"/> | <img src="https://streak-stats.demolab.com/?user=Nasir-Uddin-Mollah&theme=blue-green&hide_border=true"/> |
 
-### 🔤 Top Languages
+<h3 align="center">🔤 Top Languages</h3>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nasir-Uddin-Mollah&layout=compact&theme=blue-green&hide_border=true"/>
+<p align="center">
+  <img src="./profile/top-langs.svg"/>
+</p>
 
 <!-- Contribution Graph -->
 <div align="center">
