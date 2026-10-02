@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Nasir Uddin Mollah">
+</p>
+
 <h1 align="center">Hi 👋, I'm Nasir</h1>
 
 <div align="center">
