@@ -40,15 +40,33 @@
 
 ## 📊 GitHub Stats
 
-| Stats | Streak |
-|------|------|
-| <img src="./profile/stats.svg"/> | <img src="https://streak-stats.demolab.com/?user=Nasir-Uddin-Mollah&theme=blue-green&hide_border=true"/> |
+<table align="center" style="background-color: transparent; border: none;">
+  <tr style="background-color: transparent;">
+    <th style="background-color: transparent; border: none;">Stats</th>
+    <th style="background-color: transparent; border: none;">Streak</th>
+  </tr>
 
-<h3 align="center">🔤 Top Languages</h3>
+  <tr style="background-color: transparent;">
+    <td style="background-color: transparent; border: none;">
+      <img src="./profile/stats.svg"/>
+    </td>
+    <td style="background-color: transparent; border: none;">
+      <img src="https://streak-stats.demolab.com/?user=Nasir-Uddin-Mollah&theme=blue-green&hide_border=true"/>
+    </td>
+  </tr>
 
-<p align="center">
-  <img src="./profile/top-langs.svg"/>
-</p>
+  <tr style="background-color: transparent;">
+    <th colspan="2" style="background-color: transparent; border: none;">
+      🔤 Top Languages
+    </th>
+  </tr>
+
+  <tr style="background-color: transparent;">
+    <td colspan="2" align="center" style="background-color: transparent; border: none;">
+      <img src="./profile/top-langs.svg"/>
+    </td>
+  </tr>
+</table>
 
 <!-- Contribution Graph -->
 <div align="center">
