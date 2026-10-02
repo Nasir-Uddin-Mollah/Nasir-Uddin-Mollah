@@ -51,7 +51,7 @@
       <img src="./profile/stats.svg"/>
     </td>
     <td style="background-color: transparent; border: none;">
-      <img src="https://streak-stats.demolab.com/?user=Nasir-Uddin-Mollah&theme=blue-green&hide_border=true"/>
+      <img src="./profile/streak.svg"/>
     </td>
   </tr>
 
